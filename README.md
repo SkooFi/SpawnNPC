@@ -1,5 +1,8 @@
-# ped_spawner
+# SKooFi#3565
 
+![keeper](https://cdn.discordapp.com/attachments/1095352675253637201/1112720143462711336/banner_Discord_pack_don_tix_lib.png)
+
+# NPC SPAWNER 
 ![keeper](https://user-images.githubusercontent.com/14336807/112101162-71129b00-8b63-11eb-9778-eb0434d97a5c.png)
 An easily configurable ped spawner for fivem servers.  Supports animations as well if you have the patience to find one you like.
 
@@ -34,14 +37,6 @@ Below you can see an example of a code snippet you could use. Both the animDict 
 --   },
 ```
 
-## [1.1.0] - 2021-03-23
- 
-### Added
-* Deletion of peds when player gets far enough away
-### Fixed
-* Took some of the config variables out of tables.
-
-## [1.2.0] - 2021-03-23
  
 ### Added
 * Option to fadein/fadeout the peds<br>
