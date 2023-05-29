@@ -13,6 +13,6 @@ Config.PedList = {
         coords = vector3(0, 0, 0), -- coords --
         heading = 0, -- heading --
         gender = "male", -- male or female --
-        scenario = "WORLD_HUMAN_COP_IDLES", -- scenario or anim --
+        scenario = "WORLD_HUMAN_COP_IDLES", -- scenario or anim https://alexguirre.github.io/animations-list/ --
     },
 }
