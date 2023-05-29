@@ -1,7 +1,3 @@
-# SKooFi#3565
-
-![keeper](https://cdn.discordapp.com/attachments/1095352675253637201/1112720143462711336/banner_Discord_pack_don_tix_lib.png)
-
 # NPC SPAWNER 
 ![keeper](https://user-images.githubusercontent.com/14336807/112101162-71129b00-8b63-11eb-9778-eb0434d97a5c.png)
 An easily configurable ped spawner for fivem servers.  Supports animations as well if you have the patience to find one you like.
@@ -41,4 +37,6 @@ Below you can see an example of a code snippet you could use. Both the animDict 
 ### Added
 * Option to fadein/fadeout the peds<br>
 ![fade](https://user-images.githubusercontent.com/14336807/112215947-33068d00-8bde-11eb-86e1-bc3408d1afde.gif)
+
+# SKooFi STORE : https://discord.gg/239
 
