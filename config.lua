@@ -9,10 +9,10 @@ Config.MinusOne = true
 
 Config.PedList = {
     {
-        model = "", -- https://docs.fivem.net/docs/game-references/ped-models/ --
-        coords = vector3(0, 0, 0), -- coords --
+        model = "", -- https://docs.fivem.net/docs/game-references/ped-models/
+        coords = vector3(0, 0, 0), -- coords 
         heading = 0, -- heading --
-        gender = "male", -- male or female --
-        scenario = "WORLD_HUMAN_COP_IDLES", -- scenario or anim https://alexguirre.github.io/animations-list/ --
+        gender = "male", -- male or female 
+        scenario = "WORLD_HUMAN_COP_IDLES", -- https://alexguirre.github.io/animations-list/
     },
 }
