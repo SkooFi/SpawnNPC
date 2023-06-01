@@ -7,7 +7,7 @@ An easily configurable ped spawner for fivem servers.  Supports animations as we
 
 Installation:<br>
 * Place the file into the resources folder for your server.<br>
-* Add 'ensure ped_spawner' to your server.cfg<br>
+* Add 'ensure SpawnNPC' to your server.cfg<br>
 * Enjoy!<br>
 
 Configuration Options:<br>
